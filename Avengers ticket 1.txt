@@ -1,0 +1,8 @@
+==== MOVIE TICKET ====
+Movie: Avengers
+Date: 02/05/25
+Show Time: 4:00 PM
+Seats: I5, I6
+Total Price: ₹300
+
+======================
